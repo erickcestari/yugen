@@ -1,3 +1,6 @@
+
+<p align="center"><img src="./yugen-icon.png" alt="Yugen icon" height="180"/></p>
+
 # Yugen - A Functional Language (Work in Progress)
 
 Yugen is an exciting new functional programming language that is currently in the early stages of development. It is designed to provide a powerful and expressive toolset for functional programming enthusiasts. This README provides an overview of the project and its current status.
