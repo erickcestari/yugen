@@ -1,5 +1,5 @@
 
-<p align="center"><img src="./yugen-icon.png" alt="Yugen icon" height="180"/></p>
+<p align="center"><img src="./yugen-icon.png" alt="Yugen icon" height="250"/></p>
 
 # Yugen - A Functional Language (Work in Progress)
 
